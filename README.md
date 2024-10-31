@@ -1,7 +1,7 @@
 README
 ================
 Mitchell Aaron Schepps, Jeremy Seurat, France Mentre, and Weng Kee
-Wong<maschepps@ucla.edu>
+Wong <jeremy.seurat@gmail.com>
 2024-10-16
 
 # Manuscript Introduction
